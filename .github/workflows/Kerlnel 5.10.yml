@@ -1,0 +1,106 @@
+
+{
+  "name": "android12-5.10",
+  "branches": [
+    {
+      "name": "android12-5.10-2025-06",
+      "kernel_version": "5.10.237",
+      "releases": [
+        {
+          "tag": "android12-5.10-2025-06_r1",
+          "date": "2025-06-25",
+          "sha1": "484c3d56a37435198fa13276c8c97acda5ac28f4",
+          "kernel_bid": "13656953"
+        }, {
+          "tag": "android12-5.10-2025-06_r2",
+          "date": "2025-08-06",
+          "sha1": "656077247f488517bd6c6a71ecfdfba766bd29c4",
+          "kernel_bid": "13744514"
+        }, {
+          "tag": "android12-5.10-2025-06_r3",
+          "date": "2025-08-22",
+          "sha1": "d09ef2e980e0974a0d6dfe762e29fff118db7f46",
+          "kernel_bid": "13968955"
+        }, {
+          "tag": "android12-5.10-2025-06_r4",
+          "date": "2025-09-19",
+          "sha1": "f82f7360927ec011a4510c0e503d1aafd6d10df9",
+          "kernel_bid": "14119954"
+        }, {
+          "tag": "android12-5.10-2025-06_r5",
+          "date": "2025-12-06",
+          "sha1": "b8dc0bda0c35bed56ff2f257a5c7bf24eab0d375",
+          "kernel_bid": "14536156"
+        }, {
+          "tag": "android12-5.10-2025-06_r6",
+          "date": "2026-04-27",
+          "sha1": "744d5c916fbbd6fb15f92c69c32de440d7345c6f",
+          "kernel_bid": "15260229"
+        }
+      ]
+    }, {
+      "name": "android12-5.10-2025-09",
+      "kernel_version": "5.10.240",
+      "releases": [
+        {
+          "tag": "android12-5.10-2025-09_r1",
+          "date": "2025-09-24",
+          "sha1": "1951d14a348beea7b86b6102149b57f42e454031",
+          "kernel_bid": "14110529"
+        }, {
+          "tag": "android12-5.10-2025-09_r2",
+          "date": "2025-11-17",
+          "sha1": "5876d310563a8f1fbaf6ccb6cab512e850f0a919",
+          "kernel_bid": "14438238"
+        }, {
+          "tag": "android12-5.10-2025-09_r3",
+          "date": "2026-01-22",
+          "sha1": "25161a557b2071d0e66ebe098bbc46d2b860ed55",
+          "kernel_bid": "14744618"
+        }, {
+          "tag": "android12-5.10-2025-09_r4",
+          "date": "2026-02-06",
+          "sha1": "25161a557b2071d0e66ebe098bbc46d2b860ed55",
+          "kernel_bid": "14744618"
+        }, {
+          "tag": "android12-5.10-2025-09_r5",
+          "date": "2026-04-28",
+          "sha1": "25161a557b2071d0e66ebe098bbc46d2b860ed55",
+          "kernel_bid": "14744618"
+        }
+      ]
+    }, {
+      "name": "android12-5.10-2025-12",
+      "kernel_version": "5.10.246",
+      "releases": [
+        {
+          "tag": "android12-5.10-2025-12_r1",
+          "date": "2025-12-10",
+          "sha1": "8ca7f39b1d8437f3795fd95d5e9cd9509427311e",
+          "kernel_bid": "14517425"
+        }, {
+          "tag": "android12-5.10-2025-12_r3",
+          "date": "2026-04-08",
+          "sha1": "730d06ec05ff5dc34389ff99ea4009411efba5e6",
+          "kernel_bid": "15159037"
+        }, {
+          "tag": "android12-5.10-2025-12_r4",
+          "date": "2026-04-28",
+          "sha1": "101c234ed89fc2370996a8ce005544d974ae7ab4",
+          "kernel_bid": "15260231"
+        }
+      ]
+    }, {
+      "name": "android12-5.10-2026-04",
+      "kernel_version": "5.10.252",
+      "releases": [
+        {
+          "tag": "android12-5.10-2026-04_r1",
+          "date": "2026-04-25",
+          "sha1": "f960ed27302b1ff8e61e152fc202554d778deccd",
+          "kernel_bid": "15212796"
+        }
+      ]
+    }
+  ]
+}
